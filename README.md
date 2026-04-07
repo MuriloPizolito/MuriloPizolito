@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=052asf&height=120&section=header"/>
+<div>
+  <img style="100%" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
 👋 Murilo Pizolito :)
 ==========================================================================================================================================
@@ -23,19 +25,17 @@
 
 ### Socials
 
-<p align="left"> 
- <a href="https://www.github.com/MuriloPizolito" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
- <a href="https://www.linkedin.com/in/murilopizolito/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<div align="left"> 
+<a href="https://www.linkedin.com/in/murilopizolito/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /> </a>
+</div>
 
-</p>
+### Stats
 
-
-### 
-<div align="center">  
-<a href="http://www.github.com/MuriloPizolito"><img src="https://github-readme-stats.vercel.app/api?username=MuriloPizolito&show_icons=true&hide=issues,contribs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="MuriloPizolito's GitHub stats" /></a>
-<!-- <a href="https://github.com/MuriloPizolito" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPizolito&layout=compact&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
- <a href="https://github.com/MuriloPizolito" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPizolito&layout=compact&hide_border=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&custom_title=Top%20%Languages" " alt="Top Languages"  /></a>
+<div align="left">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=murilopizolito&layout=compact&bg_color=1e293b&title_color=60a5fa&text_color=f1f5f9" />
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=052asf&height=120&section=footer"/>
+<div>
+  <img style="100%" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
